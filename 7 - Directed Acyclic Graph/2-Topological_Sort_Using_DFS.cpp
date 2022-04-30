@@ -73,3 +73,6 @@ int main() {
 	
 	return 0;
 }
+
+
+10 quintal 45    20377
